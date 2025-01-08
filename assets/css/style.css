@@ -4334,8 +4334,8 @@ textarea.form-control {
 }
 
 .slider-1 .thumbs-dots .owl-thumb-item {
-  flex-basis: 190px;
-  max-width: 190px;
+  flex-basis: 110px;
+  max-width: 140px;
   text-align: left;
   padding: 25px 25px 23px;
   background-color: #3d455a;
